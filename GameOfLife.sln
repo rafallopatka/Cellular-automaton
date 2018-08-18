@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfLife", "GameOfLife\GameOfLife.csproj", "{EC7D1E77-68C5-4EDE-9BCF-6259BECFCD91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC7D1E77-68C5-4EDE-9BCF-6259BECFCD91}.Debug|x86.ActiveCfg = Debug|x86
+		{EC7D1E77-68C5-4EDE-9BCF-6259BECFCD91}.Debug|x86.Build.0 = Debug|x86
+		{EC7D1E77-68C5-4EDE-9BCF-6259BECFCD91}.Release|x86.ActiveCfg = Release|x86
+		{EC7D1E77-68C5-4EDE-9BCF-6259BECFCD91}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70C0CB02-BFCA-4931-99C4-EC82666A7244}
+	EndGlobalSection
+EndGlobal
